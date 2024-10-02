@@ -20,5 +20,5 @@ Distance Calculation: The algorithm computes the Euclidean distance between the 
 Pathfinding: The algorithm aims to find the shortest path between two Wikipedia pages by minimizing the distances between nodes, ensuring efficient navigation.
 ## Usage
 To try out WikiRacer Transformed, clone this repository and run wikiracer_transformed.py. The program will allow you to input Wikipedia links and observe the algorithm's pathfinding performance.
-## Discalimer 
-This repository builds upon the work of Lin & Giordano. For a detailed explanation of the results, please visit my [vlog]().
+## Disclaimer
+This repository builds upon the work of Lin & Giordano. For a detailed explanation of the results, please visit my [vlog](https://franciscosanchez23t.wordpress.com/2024/10/01/wikiracer-transformed/).
